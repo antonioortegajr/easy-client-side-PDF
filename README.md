@@ -6,7 +6,7 @@ This project was bootstrapped with default [create react app with typescript](ht
 
  Typescript is used but NOT required for this example. It is just nice 😊.
 
- This example uses [Victory Charts](https://formidable.com/open-source/victory/docs/victory-pie) as the chart library.
+ This example uses [Victory Charts](https://formidable.com/open-source/victory/docs/victory-pie) as the chart library. Other chart libraries should work in the same fasion.
 
 
 ## Requirements
