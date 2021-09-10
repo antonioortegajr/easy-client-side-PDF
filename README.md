@@ -2,7 +2,7 @@
 
 ## About
 
-This project was bootstrapped with default [createw react app with typescript](https://create-react-app.dev/docs/getting-started/).
+This project was bootstrapped with default [create react app with typescript](https://create-react-app.dev/docs/getting-started/).
 
  Typescript is used but NOT required for this example. It is just nice 😊.
 
@@ -11,7 +11,7 @@ This project was bootstrapped with default [createw react app with typescript](h
 
 ## Requirements
 
-In the project directory:
+In the pdf-create directory:
 
 `yarn install`
 
