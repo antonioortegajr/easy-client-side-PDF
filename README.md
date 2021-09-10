@@ -19,7 +19,7 @@ In the pdf-create directory:
 
 Run the locally built version of the app.
 
-In the project directory:
+In the pdf-create directory:
 
 `yarn start`
 
